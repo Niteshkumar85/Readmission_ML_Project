@@ -92,9 +92,6 @@ python src/models/evaluation.py
 coverage run -m pytest; coverage report
 ```
 
-# streamlit web app serving model
-
-https://joserzapata-readmission-ml-pr-readmission-prediction-app-aah7d3.streamlit.app/
 
 local:
 
